@@ -28,8 +28,11 @@ p {
   font-family: 'Indie Flower', cursive;
 }
 
-img {
+img1, img2 {
   width: 80%;
+}
+.flag{
+  width:100px;
 }
 
 footer {
